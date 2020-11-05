@@ -6,7 +6,7 @@ This is a project developed for Professor Bazílio's classes. It's a heap simula
 ###### How to run it
 You can start the program with a .txt file, which has specific instructions. You will find two files in this repository as an example. If you want to write your own file with different commands, just tell the project to: 
 
-1) Add a new element using the command: *new [name of the variable] *[size of the variable]*
+1) Add a new element using the command: *new [name of the variable]* *[size of the variable]*
 2) Delete an element using the command: *del [name of the variable]*
 3) Show what you acquired in your memory heap using the command: *exibe*
 4)  To assign a given variable to another, use the command: *[name of the first variable] = [name of the second variable]*
