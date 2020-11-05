@@ -3,7 +3,7 @@ Greetings!
 
 This is a project developed for Professor Bazílio's classes. It's a heap simulator, which means that it simulates how a memory heap works. You also can manipulate it to check on more details.
 
-###### How to run it
+## How to run it
 You can start the program with a .txt file, which has specific instructions. You will find two files in this repository as an example. If you want to write your own file with different commands, just tell the project to: 
 
 1) Add a new element using the command: *new [name of the variable]* *[size of the variable]*
